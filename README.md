@@ -1,7 +1,7 @@
 # Vscode-extentions
 a repo for all my current vs code extentions 
 
-#Current 
+# Current extentions 
 * abusaidm.html-snippets
 * christian-kohler.path-intellisense
 * CoenraadS.bracket-pair-colorizer
